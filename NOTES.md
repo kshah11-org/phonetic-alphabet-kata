@@ -28,3 +28,4 @@ TODO:
 ✅ Write functionality for letter 'B' translation
 ✅ Write test for word 'Can'
 ✅ Write functionality for letter 'Can' translation
+✅ Refactor
