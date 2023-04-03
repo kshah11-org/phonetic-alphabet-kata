@@ -24,8 +24,8 @@ TODO:
 ✅ Rename Files/function names
 ✅ Write test for letter 'A'
 ✅ Write functionality for letter 'A' translation
+✅ Write test for letter 'B'
+✅ Write functionality for letter 'B' translation
 
-- Write test for letter 'B'
-- Write functionality for letter 'B' translation
 - Write test for word 'Can'
 - Write functionality for letter 'Can' translation
