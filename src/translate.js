@@ -26,13 +26,15 @@ const NATO = {
   Y: 'Yankee',
   Z: 'Zulu',
 };
+const punctuations = [',', '.', '!', '?'];
 const translate = (input) => {
   if (input.length === 1) {
     return NATO[input];
   }
   const translation = [];
   [...input].forEach((letter) => {
-    translation.push(NATO[letter.toUpperCase()]);
+    if (punctuations.includes(letter)) translation.push(letter);
+    else translation.push(NATO[letter.toUpperCase()]);
   });
   return translation.join(' ');
 };

@@ -38,9 +38,9 @@ TODO:
 # Pomodoro 2
 
 ✅ Refactor
+✅ Write functionality for word with punctuation 'Wow!' translation
+✅ Write test for word 'Wow!'
 
-- Write functionality for word with punctuation 'Wow!' translation
-- Write test for word 'Wow!'
 - Write functionality for sentence 'I will' translation
 - Write test for word 'I will'
 - Write functionality for sentence 'My Car is big' translation

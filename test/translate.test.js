@@ -16,4 +16,7 @@ describe('Translates the string to the pilots alphabet', () => {
   test('should return "Foxtrot Alfa Sierra Tango" when the input is Fast', () => {
     expect(translate('Fast')).toBe('Foxtrot Alfa Sierra Tango');
   });
+  test('should return "Whiskey Oscar Whiskey !" when the input is Wow!', () => {
+    expect(translate('Wow!')).toBe('Whiskey Oscar Whiskey !');
+  });
 });
