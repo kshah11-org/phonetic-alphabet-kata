@@ -30,9 +30,11 @@ const translate = (input) => {
   if (input.length === 1) {
     return NATO[input];
   }
-  if (input === 'Can') return 'Charlie Alfa November';
-  if (input === 'Boat') return 'Bravo Oscar Alfa Tango';
-  return 'Foxtrot Alfa Sierra Tango';
+  const translation = [];
+  [...input].forEach((letter) => {
+    translation.push(NATO[letter.toUpperCase()]);
+  });
+  return translation.join(' ');
 };
 
 module.exports = translate;

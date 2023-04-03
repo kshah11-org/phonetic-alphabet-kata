@@ -33,5 +33,15 @@ TODO:
 ✅ Write functionality for letter 'Boat' translation
 ✅ Write test for word 'Fast'
 ✅ Write functionality for letter 'Fast' translation
+🚧 Refactor
 
-- Refactor
+# Pomodoro 2
+
+✅ Refactor
+
+- Write functionality for word with punctuation 'Wow!' translation
+- Write test for word 'Wow!'
+- Write functionality for sentence 'I will' translation
+- Write test for word 'I will'
+- Write functionality for sentence 'My Car is big' translation
+- Write test for word 'My Car is big'
