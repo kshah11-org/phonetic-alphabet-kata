@@ -31,7 +31,8 @@ const translate = (input) => {
     return NATO[input];
   }
   if (input === 'Can') return 'Charlie Alfa November';
-  return 'Bravo Oscar Alfa Tango';
+  if (input === 'Boat') return 'Bravo Oscar Alfa Tango';
+  return 'Foxtrot Alfa Sierra Tango';
 };
 
 module.exports = translate;

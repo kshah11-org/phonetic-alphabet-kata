@@ -30,6 +30,8 @@ TODO:
 ✅ Write functionality for letter 'Can' translation
 ✅ Refactor
 ✅ Write test for word 'Boat'
-🚧 Write functionality for letter 'Boat' translation
+✅ Write functionality for letter 'Boat' translation
+✅ Write test for word 'Fast'
+✅ Write functionality for letter 'Fast' translation
 
 - Refactor
