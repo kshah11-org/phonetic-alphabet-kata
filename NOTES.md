@@ -29,3 +29,7 @@ TODO:
 ✅ Write test for word 'Can'
 ✅ Write functionality for letter 'Can' translation
 ✅ Refactor
+✅ Write test for word 'Boat'
+🚧 Write functionality for letter 'Boat' translation
+
+- Refactor

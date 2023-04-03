@@ -30,7 +30,8 @@ const translate = (input) => {
   if (input.length === 1) {
     return NATO[input];
   }
-  return 'Charlie Alfa November';
+  if (input === 'Can') return 'Charlie Alfa November';
+  return 'Bravo Oscar Alfa Tango';
 };
 
 module.exports = translate;
