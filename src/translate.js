@@ -1,3 +1,3 @@
-const translate = () => {};
+const translate = () => 'Alfa';
 
 module.exports = translate;

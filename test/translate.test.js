@@ -1,7 +1,7 @@
 const translate = require('../src/translate');
 
-describe('name of the group', () => {
-  it('should', () => {
-    expect(translate()).toBe();
+describe('Translates the string to the pilots alphabet', () => {
+  test('should return Alfa when the input is A', () => {
+    expect(translate('A')).toBe('Alfa');
   });
 });
