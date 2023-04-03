@@ -21,8 +21,8 @@ TODO:
 # Pomodoro 1
 
 ✅ Domain & entities
+🚧 Rename Files/function names
 
-- Rename Files/function names
 - Write test for letter 'A'
 - Write functionality for letter 'A' translation
 - Write test for letter 'B'
