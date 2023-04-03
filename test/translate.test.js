@@ -19,4 +19,7 @@ describe('Translates the string to the pilots alphabet', () => {
   test('should return "Whiskey Oscar Whiskey !" when the input is Wow!', () => {
     expect(translate('Wow!')).toBe('Whiskey Oscar Whiskey !');
   });
+  test('should return "India Whiskey India Lima Lima" when the input is I will', () => {
+    expect(translate('I will')).toBe('India Whiskey India Lima Lima');
+  });
 });

@@ -34,7 +34,7 @@ const translate = (input) => {
   const translation = [];
   [...input].forEach((letter) => {
     if (punctuations.includes(letter)) translation.push(letter);
-    else translation.push(NATO[letter.toUpperCase()]);
+    else if (letter !== ' ') translation.push(NATO[letter.toUpperCase()]);
   });
   return translation.join(' ');
 };

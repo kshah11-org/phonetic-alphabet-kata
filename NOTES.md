@@ -40,8 +40,8 @@ TODO:
 ✅ Refactor
 ✅ Write functionality for word with punctuation 'Wow!' translation
 ✅ Write test for word 'Wow!'
+✅ Write functionality for sentence 'I will' translation
+✅ Write test for word 'I will'
 
-- Write functionality for sentence 'I will' translation
-- Write test for word 'I will'
-- Write functionality for sentence 'My Car is big' translation
-- Write test for word 'My Car is big'
+- Write functionality for sentence 'If, you can read?' translation
+- Write test for word 'If, you can read?'
