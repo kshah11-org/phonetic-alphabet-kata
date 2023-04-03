@@ -42,6 +42,4 @@ TODO:
 ✅ Write test for word 'Wow!'
 ✅ Write functionality for sentence 'I will' translation
 ✅ Write test for word 'I will'
-
-- Write functionality for sentence 'If, you can read?' translation
-- Write test for word 'If, you can read?'
+✅ Write test for word 'If, you can read?'

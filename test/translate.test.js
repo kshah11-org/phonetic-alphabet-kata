@@ -22,4 +22,9 @@ describe('Translates the string to the pilots alphabet', () => {
   test('should return "India Whiskey India Lima Lima" when the input is I will', () => {
     expect(translate('I will')).toBe('India Whiskey India Lima Lima');
   });
+  test('should return "India Foxtrot , Yankee Oscar Uniform Charlie Alfa November Romeo Echo Alfa Delta ?" when the input is If, you can read?', () => {
+    expect(translate('If, you can read?')).toBe(
+      'India Foxtrot , Yankee Oscar Uniform Charlie Alfa November Romeo Echo Alfa Delta ?',
+    );
+  });
 });
